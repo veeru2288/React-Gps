@@ -14,7 +14,7 @@ function App() {
 
   return (
     <>
-   
+   <h1>Hello</h1>
   <div className='flex'>
   <BrowserRouter> 
   <SideNavbar>
